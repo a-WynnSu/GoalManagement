@@ -1,0 +1,17 @@
+div{
+  background-color: #53a4fd;
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+div span{
+  color: white;
+  margin: 10px;
+}
