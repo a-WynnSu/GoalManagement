@@ -17,3 +17,9 @@ div span{
   color: white;
   margin: 10px;
 }
+#goal{
+  font-size: 30px;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}

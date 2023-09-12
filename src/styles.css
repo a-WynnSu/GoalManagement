@@ -1,5 +1,6 @@
 @import 'material-symbols';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,600&display=swap');
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -138,6 +139,9 @@ table {
 }
 
 /* CSS Reset  */
+*{
+  font-family: 'Noto Sans TC', sans-serif;
+}
 
 .material-symbols-outlined {
   font-variation-settings:

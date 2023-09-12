@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://openapi.twse.com.tw/v1",
+    "secure": false,
+    "changeOrigin": true
+  }
+}

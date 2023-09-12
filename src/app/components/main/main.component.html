@@ -1,4 +1,10 @@
 <h1>目標規劃</h1>
-<span>現在的目標：</span><input type="text"/>
-<span>開始日期</span><input type="date"/>
-<span>結束日期</span><input type="date"/>
+<span>現在的目標：<input type="text" [(ngModel)]="goalInput"/></span>
+<div>
+<span>開始日期<input type="date" [(ngModel)]="startDate" /></span>
+<span>結束日期<input type="date" [(ngModel)]="finishDate" /></span>
+</div>
+<br>
+<br>
+<!-- <h2>{{goalInput}}</h2> -->
+<br>
