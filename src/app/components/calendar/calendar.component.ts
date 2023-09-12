@@ -13,6 +13,6 @@ export class CalendarComponent implements OnInit {
   ngOnInit(): void {
   }
   redirect(){
-    this.router.navigateByUrl('/schedule?id=20230912');
+    this.router.navigateByUrl('/schedule?id=你最棒了');
   }
 }
